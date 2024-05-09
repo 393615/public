@@ -1,2 +1,2 @@
 # public
-This is a folder containing my shareable work 
+This is a public folder.
